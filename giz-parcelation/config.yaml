@@ -1,0 +1,6 @@
+path: /cluster/scratch/jingyuwang/data/giz_aug # dataset root dir
+train: images/train # train images (relative to 'path')
+val: images/val # val images (relative to 'path')
+
+names:
+    0: parcel 
